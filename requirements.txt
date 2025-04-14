@@ -1,0 +1,12 @@
+google-auth
+google-cloud-aiplatform==1.76.0
+google-cloud-storage
+numpy
+PyMuPDF
+pillow
+tensorflow
+tensorflow-hub
+IPython
+streamlit
+matplotlib
+python-dotenv
